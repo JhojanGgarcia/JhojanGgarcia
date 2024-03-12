@@ -3,13 +3,13 @@
 </div>
 <img src="/public/Banner.png">
 <div align="center">
-  <img src="/public/css.png" width="40">
-  <img src="/public/html.png">
-  <img src="/public/javascript.png">
-  <img src="/public/nodejs.png">
-  <img src="/public/python.png">
-  <img src="/public/react.png">
-  <img src="/public/sass.png">
+  <img src="/public/css.png" width="50">
+  <img src="/public/html.png"width="50" >
+  <img src="/public/javascript.png"width="50">
+  <img src="/public/nodejs.png"width="50">
+  <img src="/public/python.png"width="50">
+  <img src="/public/react.png"width="50">
+  <img src="/public/sass.png"width="50">
 </div>
 
 <div align="center">
