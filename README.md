@@ -12,7 +12,7 @@
 
 <h3 align="center" >Languages & Tools:</h3>
 <p align="center" style="display: flex;">
-
+<>
     <img src="/public/css.png" alt="css" width="50" height="50" />
     <img src="/public/figma.png" alt="figma" width="50" height="50" />
     <img src="/public/html.png" alt="html5" width="50" height="50" />
@@ -22,7 +22,7 @@
     <img src="/public/python.png" alt="python" width="50" height="50" />
     <img src="/public/react.png" alt="react" width="50" height="50" />
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" />
-
+</>
 </p>
 
 
