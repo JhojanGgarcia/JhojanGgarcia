@@ -5,9 +5,6 @@
   💜 UI/UX enthusiast, component builder & web development lover
 </h3>
 
-<p align="center">
-  <img src="/public/Banner.png"   alt="me" />
-</p>
 
 
 <h3 align="center" >Languages & Tools:</h3>
