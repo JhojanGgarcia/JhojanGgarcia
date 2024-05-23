@@ -12,33 +12,17 @@
 
 <h3 align="center" >Languages & Tools:</h3>
 <p align="center" style="display: flex;">
-  <a href="https://www.w3schools.com/css/" >
-    <img src="/public/css.png" alt="css" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" >
-    <img src="/public/figma.png" alt="figma" width="40" height="40" />
-  </a
-  <a href="https://www.w3.org/html/">
-    <img src="/public/html.png" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" >
-    <img src="/public/nextjs.png" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ">
-    <img src="/public/javascript.png" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" >
-    <img src="/public/nodejs.png" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" >
-    <img src="/public/python.png" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" >
-    <img src="/public/react.png" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" >
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
+
+    <img src="/public/css.png" alt="css" width="50" height="50" />
+    <img src="/public/figma.png" alt="figma" width="50" height="50" />
+    <img src="/public/html.png" alt="html5" width="50" height="50" />
+    <img src="/public/nextjs.png" alt="nextjs" width="50" height="50" />
+    <img src="/public/javascript.png" alt="javascript" width="50" height="50" />
+    <img src="/public/nodejs.png" alt="nodejs" width="50" height="50" />
+    <img src="/public/python.png" alt="python" width="50" height="50" />
+    <img src="/public/react.png" alt="react" width="50" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" />
+
 </p>
 
 
