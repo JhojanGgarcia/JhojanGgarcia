@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="/public/Banner.png" width="200" height="200" alt="me" />
+  <img src="/public/Banner.png"   alt="me" />
 </p>
 
 
@@ -21,7 +21,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="/public/html.png" alt="html5" width="40" height="40" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="/public/nextjs.png" alt="java" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
