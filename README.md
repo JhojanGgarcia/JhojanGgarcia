@@ -2,7 +2,7 @@
   🌆 Welcome to my digital home, I'm @JhojanGgarcia
 </h1>
 <h3 align="center">
-  💜 UX/UI enthusiast, component builder & web development lover
+  💜 UI/UX enthusiast, component builder & web development lover
 </h3>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 
 <h3 align="center" >Languages & Tools:</h3>
-<p align="center" style="display: flex; gap: 10px">
+<p align="center" style="display: flex; gap: 15px">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="/public/css.png" alt="css3" width="40" height="40" />
+    <img src="/public/css.png" alt="css" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="/public/figma.png" alt="figma" width="40" height="40" />
@@ -22,7 +22,7 @@
     <img src="/public/html.png" alt="html5" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="/public/nextjs.png" alt="java" width="40" height="40" />
+    <img src="/public/nextjs.png" alt="nextjs" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="/public/javascript.png" alt="javascript" width="40" height="40" />
