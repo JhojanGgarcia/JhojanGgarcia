@@ -17,7 +17,9 @@
 
 - **Description:** Popply is my first production page and my first launched project aimed at providing animations to commonly used components in the web development world.
 - **Tech Stack:** JavaScript, React, TailwindCSS, Next.js, Sonner
--  **✨ Repository:** [PopplyLibrary](https://popply-library.vercel.app/)
+
+-  **🔗 Repository:** [GitHubPopply](https://github.com/JhojanGgarcia/PopplyLibrary)
+-  **🌐 Visit:** [PopplyLibrary](https://popply-library.vercel.app/)
 
 
 
