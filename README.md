@@ -10,15 +10,16 @@
 <h3 align="center" >Languages & Tools:</h3>
 <p align="center" style="display: flex;">
 <a>
-    <img src="/public/css.png" alt="css" width="50" height="50" />
-    <img src="/public/figma.png" alt="figma" width="50" height="50" />
-    <img src="/public/html.png" alt="html5" width="50" height="50" />
-    <img src="/public/nextjs.png" alt="nextjs" width="50" height="50" />
-    <img src="/public/javascript.png" alt="javascript" width="50" height="50" />
-    <img src="/public/nodejs.png" alt="nodejs" width="50" height="50" />
-    <img src="/public/python.png" alt="python" width="50" height="50" />
-    <img src="/public/react.png" alt="react" width="50" height="50" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" />
+    <img src="/public/htmlLogo.png" alt="html5" width="50" height="50" />
+    <img src="/public/javascriptLogo.png" alt="javascript" width="50" height="50" />
+    <img src="/public/cssLogo.png" alt="css" width="50" height="50" />
+    <img src="/public/tailwindLogo.png" alt="tailwind" width="50" height="50" />
+    <img src="/public/reactLogo.png" alt="react" width="50" height="50" />
+    <img src="/public/nextLogo.png" alt="nextjs" width="50" height="50" />
+    <img src="/public/nodeLogo.png" alt="nodejs" width="50" height="50" />
+    <img src="/public/framerLogo.png" alt="tailwind" width="50" height="50" />
+    <img src="/public/vercelLogo.png" alt="tailwind" width="50" height="50" />
+    <img src="/public/figmaLogo.png" alt="figma" width="50" height="50" />
 </a>
 </p>
 
