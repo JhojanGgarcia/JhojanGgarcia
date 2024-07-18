@@ -13,7 +13,7 @@
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,git,mysql" alt="Languages & Tools">
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,git,mysql,threejs" alt="Languages & Tools">
 </p>
 
 <p align="center">
