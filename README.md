@@ -25,21 +25,23 @@
 
 <h3 align="center">Projects:</h3>
 
-- **🧾 Description:** Popply is my first production page and my first launched project aimed at providing animations to commonly used components in the web development world.
-- **🧑🏻‍💻 Tech Stack:** JavaScript, React, TailwindCSS, Next.js, Sonner
+<details>
+    <summary>Popply Library</summary>
 
-- **🔗 Repository:** [GitHubPopply](https://github.com/JhojanGgarcia/PopplyLibrary)
-- **🌐 Visit:** [PopplyLibrary](https://popply-library.vercel.app/)
+  - **Description:** Popply is my first production page and my first launched project aimed at providing animations to commonly used components in the web development world.
+  - **Tech Stack:** JavaScript, React, TailwindCSS, Next.js, Sonner.
+  - **Repository:** [githubRepository](https://github.com/JhojanGgarcia/Library)
+  - **Visit:** [lopplyLibrary](https://popply-library.vercel.app/)
 
-
-
-
-https://github.com/JhojanGgarcia/JhojanGgarcia/assets/148188939/bb9b5fe6-2b24-4c0e-97e5-e3a86c2a4a08
-
+</details>
 
 
+<details>
+    <summary>Lotus Encryptor</summary>
 
-
-
-
-
+  - **Description:** Lotus Encryptor is a simple and easy to use encryption tool.
+  - **Tech Stack:** JavaScript, React, TailwindCSS, Next.js, Sonner, Node-forge, Crypto-js.
+  - **Repository:** [githubRepository](https://github.com/JhojanGgarcia/PopplyLibrary)
+  - **Visit:** [lotusEncryptor](https://popply-library.vercel.app/)
+  
+</details>
