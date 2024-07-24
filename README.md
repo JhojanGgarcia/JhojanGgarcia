@@ -1,8 +1,12 @@
 <div align="center">
   <h3>
-    <span>Welcome to My Digital Home.</span>
+    <span>Welcome to My <strong>Rous</strong> Home.</span>
   </h3>
 </div>
+
+<p align="center">
+  <img src="./public/rous.png" alt="Languages & Tools">
+</p>
 
 <div align="center">
   <h3>
@@ -29,16 +33,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pnpm" alt="Languages & Tools">
 </p>
-
-<div align="center">
-  <h3>
-    <span>About</span>
-    
-  </h3>
-  As a passionate software developer, I am dedicated to transforming ideas into immersive and aesthetically pleasing digital experiences. My focus is on creating exceptional user interfaces that are not only functional, but also visually stunning.
-
-I am currently a Software Engineering student, with a deep fascination for FullStack development. My goal is to combine advanced technical skills with high-level UI design to deliver innovative, user-centric solutions.
-</div>
 
 <div align="center">
   <h3>
