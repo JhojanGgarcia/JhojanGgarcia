@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://popply-library.vercel.app/" target="_blank">
-    <img src="./public/popplyShot.png" alt="Popply Library">
+    <img src="./public/shotDark.png" alt="Popply Library">
   </a>
 </p>
 
