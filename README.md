@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="./public/rous.png" alt="Languages & Tools">
+  <img src="./public/banner.png" alt="Languages & Tools">
 </p>
 
 <p align="center">
