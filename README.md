@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,nodejs,nextjs,git,mysql,figma,vercel,github,react" alt="Languages & Tools">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,nodejs,nextjs,git,mysql,figma,vercel,github,react,astro" alt="Languages & Tools">
 </p>
 
 
