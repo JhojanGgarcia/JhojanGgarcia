@@ -1,10 +1,7 @@
 
 
 <p align="center">
-  <img src="./public/Top.png" alt="Languages & Tools">
-</p>
-<p align="center">
-  <img src="./public/Bottom.png" alt="Languages & Tools">
+  <img src="./public/Banner.png" alt="Languages & Tools">
 </p>
 
 <p align="center">
