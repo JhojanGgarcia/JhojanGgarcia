@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="./public/canvas.png" alt="banner">
+  <img src="./public/banner.png" alt="banner">
 </p>
 
-✦ Front-end dev • UI Engineer
-✦ System programming languages • DevOps
-✦ Software Requirements Specification • Distributed systems
-✦ Music • Games   • Anime • Code • Art ᝰ
+<p align="center">
+  <img src="./public/equation.svg" alt="banner">
+</p>
